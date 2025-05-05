@@ -1,0 +1,7 @@
+<script>start("/Users/giuseppeadduce/Downloads/SitoPietroUpdated/static/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("audio","audio",1,96,"96 B",1738607007,"03/02/25, 19:23:27");</script>
+<script>addRow("css","css",1,96,"96 B",1746467608,"05/05/25, 19:53:28");</script>
+<script>addRow("images","images",1,352,"352 B",1735916425,"03/01/25, 16:00:25");</script>
+<script>addRow("js","js",1,192,"192 B",1738606801,"03/02/25, 19:20:01");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1746467130,"05/05/25, 19:45:30");</script>
